@@ -78,7 +78,7 @@ export default function App() {
 
         {/* <Object/> */}
 
-        {/* <TodoList/> */}
+        <TodoList/>
 
         {/* <Color/> */}
 
@@ -98,7 +98,7 @@ export default function App() {
             </Routes>
         </BrowserRouter> */}
 
-        <MultiProducts/>
+        {/* <MultiProducts/> */}
 
         {/* <Reducer/> */}
 
