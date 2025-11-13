@@ -1,0 +1,25 @@
+.navbar{
+    background:linear-gradient(45deg,red,green,blue);
+    font-size: 1.5 rem;
+    color: white;
+}
+/* img{
+    height: 250px !important;
+    width: 100% !important;
+} */
+.bg{
+    background-image: url('https://img.pikbest.com/wp/202408/shopping-cart-interface-shimmering-abstract-against-blue-background-a-modern-take-on-e-commerce-design-3d-rendering_9779336.jpg!bw700');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+
+nav{
+    background:linear-gradient(45deg,red,green,blue);
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
